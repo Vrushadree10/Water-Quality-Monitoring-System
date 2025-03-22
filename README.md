@@ -18,7 +18,7 @@ The Water Quality Monitoring System is an IoT-based project that continuously mo
 - **Resistors:** Ensures proper sensor connections.
 
 ## Circuit Diagram
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](circuit_diagram.PNG)
 
 ## Software & Implementation
 1. **Microcontroller Programming:**
