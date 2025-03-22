@@ -17,9 +17,6 @@ The Water Quality Monitoring System is an IoT-based project that continuously mo
 - **Alert System:** Uses an LED, buzzer, or notification (SMS/email) for alerts.
 - **Resistors:** Ensures proper sensor connections.
 
-## Circuit Diagram
-![Circuit Diagram](circuit_diagram.PNG)
-
 ## Software & Implementation
 1. **Microcontroller Programming:**
    - ESP32 collects data from sensors.
